@@ -1,24 +1,49 @@
-# 💫 About Me:
-# 👋 Hello there! I'm Linos Darikai!<br><br>Welcome to my GitHub! I'm an enthusiastic developer with a passion for teaching, problem-solving, and building impactful solutions. From crafting personalized finance apps to helping students debug their code, I love diving into projects that challenge me and help others grow.<br><br>## 🔭 Current Roles<br>- **Teaching Assistant @ EmziniWeCode** – Guiding and supporting students in learning Python, functional programming, and more.<br>- **Peer Tutor @ Ashesi University** – Helping students overcome programming challenges through one-on-one sessions and debugging support.<br>- **President @ Ashesi Pickleball Association** – Growing and leading the campus Pickleball scene with a welcoming, inclusive environment.<br>- **Content Curator @ EduTecX** – Creating high-quality educational content and contributing to AI-powered learning tools for high school students.<br><br>## 🌟 Key Projects<br>- **[Personal Finance App](#)** – A finance management tool using Python, OCR (Tesseract), and Plotly to analyze and visualize spending data from receipts.<br>- **Self-Stabilizing Rocket Shuttle** – Built a self-stabilizing rocket using a Kalman filter for sensor data, improving flight control and accuracy.<br>- **Game Design: Checkers in PyQt/PyGame** – Working on creating a strategic Checkers game with Python-based frameworks to teach basic programming concepts.<br>- **CS50x Final Project: 2D Pixel Art Web Game** – Designing a pixel art web game using HTML5 Canvas to demonstrate skills in game development and creativity.<br><br>## 💻 Technologies & Tools<br>- **Languages**: Python, C, Java<br>- **Frameworks & Libraries**: PyQt, Pygame, Tesseract OCR, Plotly<br>- **Other Tools**: Git, Gradescope, Piazza, Ubuntu<br><br>## 🎯 What I'm Working On<br>- 📱 **Personal Finance App**: Integrating OCR and data visualization to make financial tracking easier for individuals and small businesses.<br>- 🎮 **Game Development**: Exploring pixel art game creation and strategic game mechanics with Python.<br><br>## 🎓 Education<br>I'm currently a student at **Ashesi University** studying Computer Science. Alongside my studies, I’m dedicated to tutoring, mentoring, and building projects that merge education and technology.<br><br>## ✨ Fun Fact<br>I'm the **President of the Ashesi Pickleball Association**, leading a growing community of enthusiastic players on campus!<br><br>## 📫 How to Reach Me<br>- **Email**: [linostdarikai@gmail.com](mailto:linostdarikai@gmail.com)<br>- **LinkedIn**: [Linos Darikai](https://www.linkedin.com/in/linosdarikai)<br>
+# Hey, I'm Linos 👋
 
+Developer, educator, and problem-solver with a passion for tech and teaching!
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/daking07489) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Linos Darikai) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/linos_darikai) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Linos T Darikai) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/linos_darikai) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/linos_darikai) 
+- 🔭 **TA @ EmziniWeCode** | **Peer Tutor @ Ashesi University**
+- 🏓 **President @ Ashesi Pickleball Association**
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=linos-darikai&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=linos-darikai&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=linos-darikai&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## Currently working on:
+- 🚀 **Argus.oi**: A personal finance app using Python and OCR to simplify expense tracking
+- 🎮 **Checkers & Pixel Art Games**: Combining PyQt and Pygame for game development
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## Past Projects:
+- 🎲 **Hog**: A dice game utilizing functional programming concepts
+- 🗺️ **Twitter Sentiment Map**: Analyzing and visualizing happiness and sadness across America using Twitter data
+- 🐜 **Ants vs. Bees**: A strategic game involving resource management and defense mechanisms
+- 🚀 **Self-Stabilizing Rocket Shuttle**: Implemented a Kalman filter for sensor data to improve flight control
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=linos-darikai&limit=5&theme=dark&combine_all_yearly_contributions=true)
+## Tech Stack:
+- **Languages**: 
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) 
+  ![C](https://img.shields.io/badge/C-A8B400?style=flat&logo=c&logoColor=white) 
+  ![Java](https://img.shields.io/badge/Java-B07219?style=flat&logo=java&logoColor=white)
 
----
-[![](https://visitcount.itsvg.in/api?id=linos-darikai&icon=0&color=0)](https://visitcount.itsvg.in)
+- **Frameworks & Libraries**: 
+  ![PyQt](https://img.shields.io/badge/PyQt-4B8BBE?style=flat&logo=qt&logoColor=white) 
+  ![Pygame](https://img.shields.io/badge/Pygame-000000?style=flat&logo=pygame&logoColor=white) 
+  ![Tesseract OCR](https://img.shields.io/badge/Tesseract-3A5ECA?style=flat&logo=ocr&logoColor=white) 
+  ![Plotly](https://img.shields.io/badge/Plotly-3F4B4A?style=flat&logo=plotly&logoColor=white)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+- **Tools**: 
+  ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) 
+  ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white) 
+  ![Gradescope](https://img.shields.io/badge/Gradescope-0071E0?style=flat&logo=gradescope&logoColor=white) 
+  ![Piazza](https://img.shields.io/badge/Piazza-2D7F9A?style=flat&logo=piazza&logoColor=white)
+
+## Codewars Rank:
+![Codewars PUC](https://img.shields.io/badge/Codewars-PUC-orange?style=flat)
+
+## LeetCode:
+![LeetCode](https://img.shields.io/badge/Solved_Problems-XX-brightgreen?style=flat)  <!-- Replace 'XX' with your actual number of problems solved -->
+
+## Connect with Me:
+- [LinkedIn](https://www.linkedin.com/in/linosdarikai)
+- [Twitter](https://twitter.com/DarikaiT) (replace with your actual handle)
+- [GitHub](https://github.com/linos-darikai) (replace with your actual username)
+
+Always learning, always building. Let's connect!
+
+📫 Reach me: [linostdarikai@gmail.com](mailto:linostdarikai@gmail.com)
