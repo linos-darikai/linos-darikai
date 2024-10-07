@@ -68,8 +68,8 @@ I'm the **President of the Ashesi Pickleball Association**, leading a growing co
 ## 📫 How to Reach Me
 - **Email**: [linostdarikai@gmail.com](mailto:linostdarikai@gmail.com)
 - **LinkedIn**: [Linos Darikai](https://www.linkedin.com/in/linosdarikai)
-- **Twitter**: [YourTwitterHandle](https://twitter.com/your_twitter_handle) (replace with your actual handle)
-- **GitHub**: [your_github_username](https://github.com/your_github_username) (replace with your actual username)
+- **Twitter**: [YourTwitterHandle](https://twitter.com/DarikaiT) 
+- **GitHub**: [your_github_username](https://github.com/linos-darikai) 
 
 ---
 
